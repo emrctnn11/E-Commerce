@@ -1,24 +1,8 @@
-# ecommerce
 
-## Project setup
-```
-npm install
-```
+# E-Commerce
+Made specially for Akıllı Ticaret. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Framework olarak VUE 3 kullanılmıştır.
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Frontend Kütüphanesi olarak Boostrap kullanılmıştır.
